@@ -1,0 +1,6 @@
+{
+  "name": "Image Steganography Tool",
+  "description": "Embed secret text messages into images using LSB steganography and download the result. Upload an image, type your message, and encode!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
